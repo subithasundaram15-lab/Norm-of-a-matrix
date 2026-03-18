@@ -42,5 +42,6 @@ print(f"{np.linalg.norm(a,np.inf):.2f}")
 
 ### Infinity Norm of a Matrix
 <img width="315" height="90" alt="image" src="https://github.com/user-attachments/assets/5bf3d7e2-c193-460d-83e7-1be4f8681e52" />
+
 ## Result
 Thus the program for 1-norm, 2-norm and Infinity norm of a matrix are written and verified.
